@@ -12,15 +12,15 @@ Exponent: https://exp.host/@catalinmiron/react-native-dating-app
 
 ![react-native-dating-app](https://cloud.githubusercontent.com/assets/2805320/24679653/81e88b3a-1996-11e7-9474-db82d5cb0e20.gif)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 ----
 
 Stack:
 
-- [React native](https://facebook.github.io/react-native/)
-- [Expo](http://expo.io)
-- [Create React Native App](https://github.com/react-community/create-react-native-app)
-- [Expo ExNavigation](https://github.com/expo/ex-navigation)
+- [React native](https://facebook.github.io/react-native/button)
+- [Expo](http://expo.io/button)
+- [Create React Native App](https://github.com/react-community/create-react-native-app/button)
+- [Expo ExNavigation](https://github.com/expo/ex-navigation/button)
+- [![Deploy with Vercel](https://vercel.com/button)]
 
 ----
 
