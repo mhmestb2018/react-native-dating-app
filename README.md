@@ -16,11 +16,11 @@ Exponent: https://exp.host/@catalinmiron/react-native-dating-app
 
 Stack:
 
-- [React native](https://facebook.github.io/react-native/button)
-- [Expo](http://expo.io/button)
-- [Create React Native App](https://github.com/react-community/create-react-native-app/button)
-- [Expo ExNavigation](https://github.com/expo/ex-navigation/button)
-- [![Deploy with Vercel](https://vercel.com/button)]
+- [React native](https://facebook.github.io/react-native/button)(https://facebook.github.io/react-native)
+- [Expo](http://expo.io/)
+- [Create React Native App](https://github.com/react-community/create-react-native-app/)
+- [Expo ExNavigation](https://github.com/expo/ex-navigation/)
+- [Deploy with Vercel](https://vercel.com/)
 
 ----
 
