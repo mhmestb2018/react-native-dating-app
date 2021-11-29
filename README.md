@@ -16,7 +16,7 @@ Exponent: https://exp.host/@catalinmiron/react-native-dating-app
 
 Stack:
 
-- [React native](https://facebook.github.io/react-native/button)(https://facebook.github.io/react-native)
+- [React native](https://facebook.github.io/react-native/button)
 - [Expo](http://expo.io/)
 - [Create React Native App](https://github.com/react-community/create-react-native-app/)
 - [Expo ExNavigation](https://github.com/expo/ex-navigation/)
