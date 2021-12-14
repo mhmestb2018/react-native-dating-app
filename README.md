@@ -20,7 +20,8 @@ Stack:
 - [Expo](http://expo.io/)
 - [Create React Native App](https://github.com/react-community/create-react-native-app/)
 - [Expo ExNavigation](https://github.com/expo/ex-navigation/)
-- [Deploy with Vercel](https://gethub.com/reactdate/deploy-serverless-nodeapp2
+- [Deploy with Vercel](https://gethub.com/reactdate/deploy-serverless-node-app-2/button/)
+
 
 )
 
